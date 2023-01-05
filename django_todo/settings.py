@@ -33,7 +33,7 @@ SECRET_KEY = 'django-insecure-_g7vo=7dga0@ah&8^)gvxksx9+3y)t0*m(o@29$wcc6cs%rnls
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://priten-django-todo.herokuapp.com']
 
 
 # Application definition
